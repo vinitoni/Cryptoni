@@ -1,8 +1,6 @@
 # Flutter app - Cryptoni 
 
-É uma corretora de criptomoedas que consiste em uma carteira principal e uma
-diversa lista de criptomoedas que podem ser negociadas através do aplicativo,
-com gráfico em tempo real das moedas e atualizações do mercado.
+É uma corretora de criptomoedas que consiste em uma carteira principal e uma diversa lista de criptomoedas que podem ser negociadas através do aplicativo, com gráfico em tempo real das moedas e atualizações do mercado, utilizei o Zapp Run para desenvolver ele, por que assim estava mais leve para ir fazendo as alterações e verificando direto as mudanças.
 
 Já funcionando:
 
